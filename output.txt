@@ -1,0 +1,2 @@
+Hello.
+This content will be written in a binary file.
